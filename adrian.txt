@@ -4,4 +4,4 @@ agrega un texto aquí:
 
 Qué onda Mauricio.
 
-y en el siguiente commit, borra este texto
+y en el siguiente commit.
