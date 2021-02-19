@@ -3,5 +3,3 @@
 agrega un texto aquí:
 
 ¡Qué tranza!
-
-y en el siguiente commit, borra este texto
