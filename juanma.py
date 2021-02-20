@@ -1,11 +1,12 @@
-¡Modíficame!
+print ('Hola, mundo!')
 
-agrega un texto aquí:
+def cuadrado(x):
+    return x*x
+resultado = cuadrado (4)
 
-¡Qué tranza!
+if resultado > 10:
+    print ('aygoei, bien mucho, ¿edá?')
+else:
+    print ('pos ni tanto, ira:')
 
-Otra modificación
-
-Nueeeeeva modificación
-
-sin commitear
+print (resultado)
